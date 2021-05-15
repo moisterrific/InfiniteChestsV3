@@ -34,7 +34,7 @@ This is a completely rewritten version of MarioE's original InfiniteChests plugi
 /transferchests - Converts the database from InfiniteChests V1 or V2 to InfiniteChestsV3.
 ```
 
-###Permisisons
+### Permisisons
 ```
 ic.use - Enables use of /chest
 ic.claim - Enables use of /chest claim, unclaim
